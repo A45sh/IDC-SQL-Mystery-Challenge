@@ -31,12 +31,12 @@ This project showcases:
 
 The dataset contains 5 major tables:
 
-Table	                Contents
-employees	            Employee details
-keycard_logs	        Room entry/exit times
-calls	                Phone logs
-alibis	              Claimed locations by employees
-evidence	            Clues found at crime scenes
+Table	                                  Contents
+employees	                              Employee details
+keycard_logs	                          Room entry/exit times
+calls	                                  Phone logs
+alibis	                                Claimed locations by employees
+evidence	                              Clues found at crime scenes
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -124,4 +124,5 @@ Thanks to:
 Indian Data Club
 
 DPDZero
+
 for designing this engaging SQL investigation challenge.
