@@ -1,2 +1,6 @@
 Case Solved — Frank Miller.
-Frank Miller entered the CEO’s office at 20:58 (keycard log) and left at 21:03. He claimed to be in the parking lot at 21:00 (alibi), which contradicts the keycard logs. He also made calls during the critical period (20:52 and a short 20:59 call to Brian), and physical evidence (broken watch) was found in the CEO’s office at 21:05. Combining presence at scene + false alibi + suspicious call activity identifies Frank Miller as the culprit.
+
+Frank Miller entered the CEO’s office at 20:58 (keycard log) and left at 21:03. He claimed to be in the parking lot at 21:00 (alibi), 
+which contradicts the keycard logs. He also made calls during the critical period (20:52 and a short 20:59 call to Brian), 
+and physical evidence (broken watch) was found in the CEO’s office at 21:05. Combining presence at scene + false alibi + suspicious call 
+activity identifies Frank Miller as the culprit.
