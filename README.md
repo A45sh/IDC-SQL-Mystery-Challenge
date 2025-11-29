@@ -16,10 +16,16 @@ All digital clues were hidden inside multiple tables — and my job was to uncov
 This project showcases:
 
 ✔ SQL Joins
+
 ✔ Filtering & Time Analysis
+
 ✔ Cross-table investigation
+
 ✔ Logical thinking
+
 ✔ Analytical storytelling through SQL
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🗃 Dataset Overview
 
