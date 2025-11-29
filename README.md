@@ -31,13 +31,17 @@ This project showcases:
 
 The dataset contains 5 major tables:
 
-Table	Contents
-employees	Employee details
-keycard_logs	Room entry/exit times
-calls	Phone logs
-alibis	Claimed locations by employees
-evidence	Clues found at crime scenes
+Table	                Contents
+employees	            Employee details
+keycard_logs	        Room entry/exit times
+calls	                Phone logs
+alibis	              Claimed locations by employees
+evidence	            Clues found at crime scenes
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🧭 Investigation Steps
+
 Step 1 — Identify Crime Scene
 
 Used evidence table to locate room + timeline.
@@ -58,16 +62,23 @@ Step 5 — Combine All Evidence
 
 Cross-referenced all conditions using CTEs.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🟥 Final Killer Identified: David Kumar
 
 David Kumar:
 
 ✔ Entered CEO Office in the murder window
+
 ✔ Lied about his location
+
 ✔ Made a suspicious call at 20:55
+
 ✔ Evidence supported his presence
 
 🔎 All SQL analysis pointed to him as the murderer.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🐘 Tech Stack
 
@@ -76,6 +87,8 @@ PostgreSQL
 pgAdmin 4
 
 SQL (Joins, CTEs, Aggregates, Filters)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 How to Run This Project
 
@@ -96,9 +109,13 @@ SQL_Murder_Mystery.sql
 
 Execute investigation queries step-by-step.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📸 Screenshots
 
 (Add your screenshots here)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤝 Credits
 
