@@ -98,22 +98,15 @@ SQL (Joins, CTEs, Aggregates, Filters)
 
 🛠 How to Run This Project
 
-Clone this repository:
+1. Open PostgreSQL / pgAdmin
 
-git clone https://github.com/yourusername/IDC-s-SQL-Mystery-Challenge.git
+2. Create a new database
 
+3. Run the .sql dataset file
 
-Open pgAdmin → Create a database:
+4. Execute each investigation query step-by-step
 
-CREATE DATABASE murder_mystery;
-
-
-Run:
-
-SQL_Murder_Mystery.sql
-
-
-Execute investigation queries step-by-step.
+5. Follow the clues and solve the case!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
