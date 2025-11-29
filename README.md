@@ -31,12 +31,18 @@ This project showcases:
 
 The dataset contains 5 major tables:
 
-Table	                                  Contents
-employees	                              Employee details
-keycard_logs	                          Room entry/exit times
-calls	                                  Phone logs
-alibis	                                Claimed locations by employees
-evidence	                              Clues found at crime scenes
+Tables used:
+
+employees(employee_id, name, department, role)
+
+keycard_logs(log_id, employee_id, room, entry_time, exit_time)
+
+calls(call_id, caller_id, receiver_id, call_time, duration_sec)
+
+alibis(alibi_id, employee_id, claimed_location, claim_time)
+
+evidence(evidence_id, room, description, found_time)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
